@@ -1,0 +1,54 @@
+body {
+    background-color:#e1e3e8;
+    font-family: sans-serif;
+}
+h1 {
+    color:Red;
+    font-size: 60px;
+    
+}
+h2 {
+    color:#bc2727
+    
+}
+h3 {
+    color:dodgerblue;
+    font-size: 26px;
+    
+}
+
+.stiling{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 100px;
+    border-style: outset;
+    border-color: white;
+    
+}
+
+.stiling:hover{
+    background-color: #cc1b00;
+    border-color: lightgray;
+    
+}
+
+
+
+.stiling2{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 8px 16px 8px 16px;
+    border-radius: 100px;
+    border-color: red;
+    border-style: outset;
+    
+}
+
+.siling2:hover{
+    background-color: lightgray;
+    border-color: #cc1b00;
+        
+}
